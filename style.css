@@ -1,4 +1,11 @@
-.navbar-dark .navbar-nav .nav-link {
-    color: rgb(255 255 255);
-    font-size: medium;
+.banner_div{
+    background-image: url(images/bg_img.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#banner_btn_1{
+    border: 1px solid white;
+    background-color: transparent;
+    border-radius: none;
+    padding:0px 25px;
 }
