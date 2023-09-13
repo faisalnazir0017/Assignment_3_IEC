@@ -9,3 +9,15 @@
     border-radius: none;
     padding:0px 25px;
 }
+.three_buttons{
+    border: 1px solid black;
+    background-color: transparent;
+    border-radius: none;
+    padding:0px 50px;
+}
+#btn2{
+    padding: 0px 85px !important;
+}
+#btn3{
+    padding: 0px 57px !important;
+}
