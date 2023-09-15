@@ -1,5 +1,6 @@
+
 .banner_div{
-    background-image: url(images/bg_img.jpg);
+    background-image: url(images/background_img.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     
@@ -16,9 +17,26 @@
     border-radius: none;
     padding:0px 50px;
 }
+#btn1{
+    padding: 0px 50px !important;
+}
 #btn2{
     padding: 0px 85px !important;
 }
 #btn3{
     padding: 0px 57px !important;
+}
+.icons{
+    width: 50px;
+}
+.article_heading{
+    color: #6ed198;
+    font-size:medium;
+}
+.article_link{
+    text-decoration: none;
+    font-size: smaller;
+}
+.article_disc{
+    font-size: smaller;
 }
