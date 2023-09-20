@@ -1,12 +1,10 @@
-
 .bg_color{
     background-color: #788a7c;
 }
 .banner_div{
     background-image: url(images/background_img.jpg);
     background-repeat: no-repeat;
-    background-size:cover;
-    
+    background-size:cover; 
 }
 #banner_btn_1{
     border: 1px solid white;
